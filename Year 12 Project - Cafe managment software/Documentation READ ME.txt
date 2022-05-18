@@ -1,0 +1,28 @@
+Welcome to the Cafe Au Lait managment Program:
+
+This program allows you to order the things you want
+when you want it, from Cafe Au Lait.
+
+**PROGRAM NEEDS TO BE RUN IN VISUAL STUDIO**
+NORMAL PYTHON IDE DOES NOT HAVE ADEQUTE PERMISSIONS
+TO READ/WRITE - WILL LEAD TO INVOICES BEING LOST AND
+NOT HAVING ADEQUTE PERMISSIONS TO OUTPUT INVOICES
+	
+-To order an Item simply click any button with the Prices next to it,
+this will add the item to the menu
+-To remove any item simply left click on any item in the Recipt Text,
+and either click the "Delete Selected Item" Button, or just press
+the delete Key
+
+-Buttons exist to toggle wether or not Discounts are used
+-By default the Amount (i.e. more than 10 prodcuts) exists as on,
+while the Take Out Cost is enabled as off. Press the buttons to toggle
+them on or off.
+
+-To create Invoice press the "Print Invoice" Button
+-If you want to save the Invoice press the "Archive Invoice" Button;
+This will save the Inovice as a .txt file in the same directory or 
+folder where the .py file is located
+-All the Files will end up here in this folder, allowing users to sort by date,
+and view data ranges via the ue of the windows explorer or similar OS file 
+explorers
